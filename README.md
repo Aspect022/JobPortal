@@ -16,10 +16,6 @@
 ## **Tech Stack**
 - **Backend**: Spring Boot, Spring Data JPA, Hibernate, MySQL
 - **Security**: Spring Security (JWT, OAuth2 for Google/GitHub authentication)
-- **API Documentation**: Swagger / OpenAPI
-- **Email Notifications**: Spring Mail
-- **Resume Parsing**: Apache POI (for PDF/Word resume handling)
-- **Frontend** (Planned): React.js
 
 ---
 
@@ -27,7 +23,7 @@
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/jobportal.git
+git clone https://github.com/Aspect022/jobportal.git
 cd jobportal
 ```
 
@@ -124,7 +120,7 @@ git push origin feature-branch
 
 ## **Contact**
 **Jayesh RL**  
-[GitHub](https://github.com/your-username)  
-[LinkedIn](https://www.linkedin.com/in/your-profile/)  
-[Email](mailto:your-email@example.com)
+[GitHub](https://github.com/Aspect022)  
+[LinkedIn](https://www.linkedin.com/in/jayesh-rl-748059291/)  
+[Email](jayeshrl2005@gmail.com)
 
