@@ -122,13 +122,6 @@ git commit -m "Add new feature"
 git push origin feature-branch
 ```
 
----
-
-## **License**
-MIT License
-
----
-
 ## **Contact**
 **Jayesh RL**  
 [GitHub](https://github.com/your-username)  
