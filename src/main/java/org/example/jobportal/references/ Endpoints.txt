@@ -1,0 +1,14 @@
+                             Entity                   	Method	               Endpoint	                Description
+                             User	                      POST	                /api/users          	Create a user
+                                                          GET                   /api/users/{id}     	Get user by ID
+                                                          GET	            /api/users/email/{email}	Get user by email
+                                                          GET	                /api/users	            Get all users
+                             Resume                       POST	                /api/resumes	        Create a resume
+                                                          GET	            /api/resumes/user/{userId}	Get resume by user ID
+                             Job	                      POST	                /api/jobs	            Create a job
+                                                          GET	                /api/jobs/{id}	        Get job by ID
+                                                          GET	        /api/jobs/employer/{employerId}	Get jobs by employer ID
+                                                          GET	                /api/jobs	            Get all jobs
+                             Job Application	          POST	            /api/job-applications	    Apply for a job
+                                                          GET	  /api/job-applications/user/{userId}	Get job applications by user ID
+                                                          GET	     /api/job-applications/job/{jobId}	Get applications for a job
